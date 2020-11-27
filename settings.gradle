@@ -1,2 +1,7 @@
+include ':testutil'
+include ':third_party:disklrucache'
+include ':third_party:gif_decoder'
+include ':library'
+include ':library'
 include ':app'
 rootProject.name = "ImageLibrary"
