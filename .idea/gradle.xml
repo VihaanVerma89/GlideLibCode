@@ -11,8 +11,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/annotation" />
+            <option value="$PROJECT_DIR$/annotation/compiler" />
+            <option value="$PROJECT_DIR$/annotation/compiler/test" />
+            <option value="$PROJECT_DIR$/glide" />
             <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/testutil" />
+            <option value="$PROJECT_DIR$/third_party" />
+            <option value="$PROJECT_DIR$/third_party/disklrucache" />
+            <option value="$PROJECT_DIR$/third_party/gif_decoder" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
